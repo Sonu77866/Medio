@@ -1,0 +1,6 @@
+{
+  "name": "Ayucore — Healthcare Platform",
+  "description": "A comprehensive healthcare platform with bilingual AI-assisted patient intake, clinical case summaries, doctor discovery, doctor verification, medicine repository, and digital records sharing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
